@@ -1,6 +1,6 @@
 # Weekly Sales Forecasting Pipeline
 
-A Python-based forecasting pipeline that processes online retail transaction data, generates weekly sales aggregates, and compares three forecasting approaches — Linear Trendline, Recursive Moving Average, and Facebook Prophet — to support data-driven business decisions.
+A Python-based forecasting pipeline that processes online retail transaction data, generates weekly sales aggregates, and compares three forecasting approaches (Linear Trendline, Recursive Moving Average, and Facebook Prophet) to support data-driven business decisions.
 
 ---
 
