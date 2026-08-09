@@ -4,7 +4,7 @@ A Python-based forecasting pipeline that processes online retail transaction dat
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Requirements](#requirements)
