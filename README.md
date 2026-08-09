@@ -54,7 +54,7 @@ This project uses the **Online Retail II** dataset from the UCI Machine Learning
 > **Citation:** Chen, S. (2019). *Online Retail II* [Dataset]. UCI Machine Learning Repository.  
 > https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
-The pipeline expects an Excel file named **`online_retail_II.xlsx`** with two sheets:
+The pipeline uses **`online_retail_II.xlsx`** with two sheets:
 
 | Sheet | Period |
 |-------|--------|
